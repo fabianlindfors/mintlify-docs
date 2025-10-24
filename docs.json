@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "API reference",
+        "tab": "API Reference",
         "openapi": "https://api.specular.dev/openapi.json"
       }
     ]
